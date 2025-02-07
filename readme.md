@@ -2,7 +2,7 @@
 
 ![Calculator Preview](calculator.png)
 
-🎥 [Watch Demo Video](simple-calculator-test.mov)
+🎥 [Watch Demo Video](https://drive.google.com/file/d/177FxQwwCoA0EOrnBiHW9tc7VG4kERipD/view?usp=sharing)
 
 *Note: Demo video shows calculator functionality and test coverage*
 
