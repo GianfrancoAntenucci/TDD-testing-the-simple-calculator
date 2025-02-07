@@ -20,7 +20,7 @@ A modular calculator implementation with comprehensive test coverage using Jest.
 
 ## Installation
 
-git clone https://github.com/GianfrancoAntenucci/calculator-testing
+git clone https://github.com/GianfrancoAntenucci/TDD-testing-the-simple-calculator
 
 cd calculator-testing
 
