@@ -2,6 +2,10 @@
 
 ![Calculator Preview](calculator.png)
 
+🎥 [Watch Demo Video](simple-calculator-test.mov)
+
+*Note: Demo video shows calculator functionality and test coverage*
+
 ## Description  
 A modular calculator implementation with comprehensive test coverage using Jest. Supports basic arithmetic operations with robust error handling and input validation.
 
