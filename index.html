@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="calculator">
+        <h2>Simple Calculator</h2>
+        <label for="num1">Number 1:</label>
+        <input type="text" id="num1" required>
+        
+        <label for="num2">Number 2:</label>
+        <input type="text" id="num2" required>
+        
+        <button onclick="performCalculation('add')">Add</button>
+        <button onclick="performCalculation('subtract')">Subtract</button>
+        <button onclick="performCalculation('multiply')">Multiply</button>
+        <button onclick="performCalculation('divide')">Divide</button>
+        
+        <p id="result"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
